@@ -22,7 +22,7 @@
 | **Ethernet**   | `Intel I219LM`                            |
 | **Wifi / BT**   | `Intel Wi-Fi 6 AX201 NGW` [kext : OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.1.0)                            |
 | **Expansion Card**   | none |
-|    |  available expansions :  |
+|    |  HP FLEX IO v2 Option Cards expansions :  |
 |    |  - [USB Type C 3.1 Gen2 10 Gbps ](https://www8.hp.com/h20195/v2/GetPDF.aspx/c06712909.pdf) (HP 13L59AA)  |
 |    |  - [USB Type C 3.1 Gen2 Port with 100W](https://www8.hp.com/h20195/v2/GetPDF.aspx/c06712909.pdf) (HP 13L60AA)) |
 | **OS**         | `macOS Catalina`          |
